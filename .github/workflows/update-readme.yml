@@ -17,9 +17,8 @@ jobs:
 
       - name: Update recent activity
         uses: jamesgeorge007/github-activity-readme@master
-        with:
+        env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MSG: "docs: update recent activity"
 
       - name: Update latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
