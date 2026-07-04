@@ -133,29 +133,6 @@ Currently strengthening my foundations in **Python**, **C++**, and **Data Struct
 
 ---
 
-## Learning Roadmap
-
-```
-2024 ─── Foundations ──────────────────────────────────────
-       ├── Python & C++ Mastery
-       ├── Data Structures & Algorithms
-       └── Git, GitHub & Collaboration
-
-2025 ─── Core Skills ──────────────────────────────────────
-       ├── AI / Machine Learning
-       ├── Full Stack Development (MERN / Next.js)
-       ├── System Design Fundamentals
-       └── Open Source Contributions
-
-2026 ─── Advanced & Career ────────────────────────────────
-       ├── Deep Learning & NLP
-       ├── Cloud & DevOps Basics
-       ├── Competitive Programming
-       └── Elite Internships & Placements
-```
-
----
-
 ## Open Source Contributions
 
 <div align="center">
@@ -168,40 +145,13 @@ Currently strengthening my foundations in **Python**, **C++**, and **Data Struct
 
 </div>
 
-> **Goal:** Make meaningful contributions to 5+ open-source projects by 2026.
-
----
-
-## Achievements & Certifications
-
-<div align="center">
-
-| Certification | Platform | Year | Badge |
-|--------------|----------|------|-------|
-| [Certification Name](#) | Platform | 2025 | Planned |
-| [Certification Name](#) | Platform | 2025 | Planned |
-| [Certification Name](#) | Platform | 2026 | Planned |
-
-</div>
-
-<!-- Achievement badges -->
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-000-1abc9c?style=flat-square&logo=codeforces&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Hackathons-0-e74c3c?style=flat-square&logo=devpost&logoColor=white)
-![Open Source](https://img.shields.io/badge/PRs%20Merged-0-3498db?style=flat-square&logo=git&logoColor=white)
-
 ---
 
 ## Connect With Me
 
 <div align="center">
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaspatel3130@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-patel-66b6b4240)
 
 </div>
 
