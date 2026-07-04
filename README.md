@@ -1,5 +1,7 @@
 # Hi, I'm Anas Patel 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=A+COMPUTER+ENGINEERING+STUDENT)](https://git.io/typing-svg)
+
 🎓 **First-year Computer Engineering student** passionate about building technology that solves real-world problems.
 
 💻 **Currently Learning:** Python, C++, Data Structures & Algorithms, AI/ML, and Full-Stack Development.
