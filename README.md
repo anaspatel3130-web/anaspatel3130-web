@@ -1,8 +1,8 @@
 <div align="center">
 
-# Anas Patel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=180&section=header&text=Anas%20Patel&fontSize=48&fontColor=00D26A&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=55&descColor=8B949E" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=500&lines=Second-Year+Computer+Engineering+Student;AI+%7C+ML+%7C+Full+Stack+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=600&lines=Building+the+future+with+code;AI+%7C+Machine+Learning+%7C+Full+Stack;Problem+Solver+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,73 +10,66 @@
 
 ## About Me
 
-I'm a **second-year Computer Engineering student** with a deep passion for **Artificial Intelligence**, **Software Engineering**, and **Problem Solving**. I enjoy breaking down complex problems, building scalable solutions, and continuously pushing my technical boundaries.
+I'm a **second-year Computer Engineering student** driven by a passion for **Artificial Intelligence**, **Software Engineering**, and **Problem Solving**. I thrive on breaking down complex challenges into elegant, scalable solutions.
 
-Currently strengthening my foundations in **Python**, **C++**, and **Data Structures & Algorithms** while exploring the worlds of **AI/ML** and **Full Stack Development**. I'm driven by impact — whether that's through elite internships, hackathons, open-source contributions, or shipping production-ready projects.
+My current focus is mastering **Python** and **C++** while building a rock-solid foundation in **Data Structures & Algorithms**. I'm actively exploring **Machine Learning** workflows, **Full Stack Development**, and **System Design** — with my sights set on elite software engineering internships and impactful open-source contributions.
 
-> *"Learning deeply, building consistently, growing relentlessly."*
+> **Philosophy:** *Learning deeply, building consistently, growing relentlessly.*
 
 ---
 
-## Current Focus
+## What I'm Working On
 
-<!-- Focus badges -->
-![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=flat-square&logo=codeforces&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF9F43?style=flat-square&logo=tensorflow&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-10AC84?style=flat-square&logo=react&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-5F27CD?style=flat-square&logo=opensourceinitiative&logoColor=white)
-
-- Solving advanced **Data Structures & Algorithms** problems
-- Building projects with **Python** and **C++**
-- Exploring **Machine Learning** workflows and model building
-- Learning **System Design** fundamentals
-- Contributing to **Open Source** projects
-- Preparing for elite **software engineering internships**
+| Focus Area | Details |
+|---|---|
+| **DSA** | Solving advanced problems on LeetCode & Codeforces |
+| **Languages** | Python, C++ — writing clean, efficient code |
+| **AI / ML** | Exploring ML workflows, model building, and TensorFlow/PyTorch |
+| **System Design** | Learning foundational design patterns and architecture |
+| **Open Source** | Contributing to real-world projects and collaborating with developers |
+| **Career** | Preparing for elite software engineering internships |
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### AI / ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -86,16 +79,16 @@ Currently strengthening my foundations in **Python**, **C++**, and **Data Struct
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=anaspatel3130-web&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=anaspatel3130-web&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=anaspatel3130-web&theme=github-dark-blue&hide_border=true&border_radius=12" alt="GitHub Streak" />
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com/?user=anaspatel3130-web&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaspatel3130-web&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaspatel3130-web&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 
 </div>
 
@@ -105,49 +98,39 @@ Currently strengthening my foundations in **Python**, **C++**, and **Data Struct
 
 <div align="center">
 
-<!-- Project Card 1 -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anaspatel3130-web&repo=project-placeholder-1&theme=github_dark&hide_border=true&border_radius=12" alt="Project 1" />
-</a>
-&nbsp;
-<!-- Project Card 2 -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anaspatel3130-web&repo=project-placeholder-2&theme=github_dark&hide_border=true&border_radius=12" alt="Project 2" />
-</a>
-
-<br><br>
-
-<!-- Project Card 3 -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anaspatel3130-web&repo=project-placeholder-3&theme=github_dark&hide_border=true&border_radius=12" alt="Project 3" />
-</a>
-&nbsp;
-<!-- Project Card 4 -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anaspatel3130-web&repo=project-placeholder-4&theme=github_dark&hide_border=true&border_radius=12" alt="Project 4" />
+<a href="https://github.com/anaspatel3130-web/frontend-battle-26">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anaspatel3130-web&repo=frontend-battle-26&theme=github_dark&hide_border=true&border_radius=10" alt="Frontend Battle" />
 </a>
 
 </div>
 
-> **Note:** Replace placeholder repos with your actual featured projects. Update links accordingly.
+> **More projects coming soon.** I'm currently building in AI/ML, Full Stack, and DSA — stay tuned.
 
 ---
 
-## Open Source Contributions
+## Learning Roadmap
 
-<div align="center">
+```
+Foundations          ████████████████████████████████████  Current
+├── Python & C++
+├── Data Structures & Algorithms
+└── Git & Collaboration
 
-| Project | Contribution Type | Status |
-|---------|------------------|--------|
-| [Project Name](#) | Bug Fix / Feature | Upcoming |
-| [Project Name](#) | Documentation | Upcoming |
-| [Project Name](#) | Code Review | Upcoming |
+Core Skills          ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  In Progress
+├── Machine Learning
+├── Full Stack Development
+├── System Design
+└── Open Source
 
-</div>
+Advanced             ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Upcoming
+├── Deep Learning & NLP
+├── Cloud & DevOps
+└── Competitive Programming
+```
 
 ---
 
-## Connect With Me
+## Connect
 
 <div align="center">
 
@@ -161,10 +144,8 @@ Currently strengthening my foundations in **Python**, **C++**, and **Data Struct
 
 ![Visitor Count](https://profile-counter.glitch.me/anaspatel3130-web/count.svg)
 
-**Thanks for visiting my profile!** \
-*Let's build something amazing together.*
+**Open to internships, collaborations, and exciting opportunities.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:161B22,100:0D1117&height=80&section=footer" width="100%" />
 
 </div>
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" width="100%" />
