@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=180&section=header&text=Anas%20Patel&fontSize=48&fontColor=00D26A&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=55&descColor=8B949E" />
 
+# Anas Patel
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=600&lines=Building+the+future+with+code;AI+%7C+Machine+Learning+%7C+Full+Stack;Problem+Solver+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
