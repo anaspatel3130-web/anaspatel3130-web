@@ -1,153 +1,132 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=180&section=header&text=Anas%20Patel&fontSize=48&fontColor=00D26A&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=55&descColor=8B949E" />
-
-# Anas Patel
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=600&lines=Building+the+future+with+code;AI+%7C+Machine+Learning+%7C+Full+Stack;Problem+Solver+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D26A&center=true&vCenter=true&width=700&lines=AI-powered%20Full%20Stack%20Developer%20in%20the%20making;Backend%20Engineering%20%C2%B7%20AI%2FML%20%C2%B7%20DSA;Serious%20about%20foundations%2C%20honest%20about%20progress)](https://git.io/typing-svg)
 
 ---
 
-## About Me
+About Me
 
-I'm a **second-year Computer Engineering student** driven by a passion for **Artificial Intelligence**, **Software Engineering**, and **Problem Solving**. I thrive on breaking down complex challenges into elegant, scalable solutions.
+I'm a second-year Computer Engineering student working toward becoming an AI-powered Full Stack Developer, with a strong focus on backend engineering, AI/ML, and problem solving.
 
-My current focus is mastering **Python** and **C++** while building a rock-solid foundation in **Data Structures & Algorithms**. I'm actively exploring **Machine Learning** workflows, **Full Stack Development**, and **System Design** — with my sights set on elite software engineering internships and impactful open-source contributions.
+Right now I'm strengthening my foundations in Python, backend engineering, AI/ML, C++/DSA, and full-stack development — building real projects and deepening my understanding with each one.
 
-> **Philosophy:** *Learning deeply, building consistently, growing relentlessly.*
+I use AI coding tools like Cursor for productivity, but my goal is to understand the code I ship, not just generate it.
 
----
-
-## What I'm Working On
-
-| Focus Area | Details |
-|---|---|
-| **DSA** | Solving advanced problems on LeetCode & Codeforces |
-| **Languages** | Python, C++ — writing clean, efficient code |
-| **AI / ML** | Exploring ML workflows, model building, and TensorFlow/PyTorch |
-| **System Design** | Learning foundational design patterns and architecture |
-| **Open Source** | Contributing to real-world projects and collaborating with developers |
-| **Career** | Preparing for elite software engineering internships |
+> How I learn: Learn → Build → Understand → Test → Debug → Document → Explain
 
 ---
 
-## Tech Stack
+Current Focus
 
-### Languages
+Area	What I'm working on	
+AI / ML	RAG · LLM applications · Embeddings · ML fundamentals · AI automation	
+Backend	Python · FastAPI · APIs · Async programming · PostgreSQL · Docker	
+Problem Solving	C++ · STL · DSA · Competitive programming fundamentals	
+Full Stack	HTML · CSS · JavaScript · React · API integration	
+Engineering	Git/GitHub · Testing · Documentation · Debugging · System design fundamentals	
+
+---
+
+Tech Stack
+
+Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### AI / ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+Backend
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+AI & Data
 
-### Tools & Platforms
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=flat-square)
+![LLM Apps](https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square)
+
+Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-000000?style=flat-square)
+
+Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+
+Technologies listed reflect tools I'm actively learning, building with, or exploring through projects.
 
 ---
 
-## GitHub Analytics
+Featured Projects
 
-<div align="center">
+🚀 CodeDive — AI Developer Platform ⭐ flagship · in active development
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=anaspatel3130-web&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=anaspatel3130-web&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+An AI-powered developer platform for understanding and querying GitHub codebases. Provide a repository, ask questions in natural language, and get architectural explanations with direct source-code citations.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaspatel3130-web&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+Ingestion & reasoning pipeline:
 
-</div>
+`GitHub repo ingestion → AST parsing → chunking → embeddings → vector search → RAG → LLM response → streaming`
+
+Tech: Python · FastAPI · PostgreSQL + pgvector · Tree-sitter AST parsing · Embeddings · SSE/token streaming · Docker · React/TypeScript
+
+🌊 OceanHub — AI-Driven Ocean Data Platform
+
+A team project: an AI-driven unified data platform delivering oceanographic, fisheries, and molecular biodiversity insights.
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/anaspatel3130-web/frontend-battle-26">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anaspatel3130-web&repo=frontend-battle-26&theme=github_dark&hide_border=true&border_radius=10" alt="Frontend Battle" />
-</a>
-
-</div>
-
-> **More projects coming soon.** I'm currently building in AI/ML, Full Stack, and DSA — stay tuned.
-
----
-
-## Learning Roadmap
+Current Journey
 
 ```
-Foundations          ████████████████████████████████████  Current
-├── Python & C++
-├── Data Structures & Algorithms
-└── Git & Collaboration
+FOUNDATIONS          ✓ Python fundamentals        ✓ C++ fundamentals
+                     ✓ SQL                        ✓ Git/GitHub
+                     → DSA (in progress)
 
-Core Skills          ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  In Progress
-├── Machine Learning
-├── Full Stack Development
-├── System Design
-└── Open Source
+CURRENTLY BUILDING   → FastAPI / backend          → PostgreSQL
+                     → RAG / LLM applications     → Embeddings
+                     → AI automation              → Full-stack integration
 
-Advanced             ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Upcoming
-├── Deep Learning & NLP
-├── Cloud & DevOps
-└── Competitive Programming
+NEXT                 → Stronger ML fundamentals   → Production-grade backend
+                     → System design              → Cloud / DevOps
+                     → Open source
 ```
+
+Only topics marked ✓ are ones I've genuinely covered — everything else is actively in progress.
 
 ---
 
-## Connect
+GitHub Analytics
 
-<div align="center">
+---
+
+What I'm Building Toward
+
+- Strong DSA and problem-solving ability
+- Production-quality backend development
+- AI/ML application development
+- AI-powered full-stack systems
+- RAG and LLM engineering
+- System design fundamentals
+- Open-source collaboration
+- Software engineering internships
+
+---
+
+Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-patel-66b6b4240)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anaspatel3130-web)
 
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/anaspatel3130-web/count.svg)
-
-**Open to internships, collaborations, and exciting opportunities.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:161B22,100:0D1117&height=80&section=footer" width="100%" />
-
-</div>
+Open to internships, collaborations, and learning opportunities.
