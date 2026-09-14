@@ -1,5 +1,5 @@
                 
-                            Hi, I'm Anas Patel 👋
+                      Hi, I'm Anas Patel 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D26A&center=true&vCenter=true&width=700&lines=AI-powered%20Full%20Stack%20Developer%20in%20the%20making;Backend%20Engineering%20%C2%B7%20AI%2FML%20%C2%B7%20DSA;Serious%20about%20foundations%2C%20honest%20about%20progress)](https://git.io/typing-svg)
 
 ---
